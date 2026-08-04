@@ -265,7 +265,7 @@ Pulling the individual findings together, a few themes stand out about Netflix's
 ## 🛠️ How to Use
 
 1. **Clone the repository** to your local machine.
-2. **Set up the database**: run the `CREATE TABLE` statement and load the Netflix titles CSV into `netflix_titles`.
+2. **Set up the database**: run the `CREATE TABLE` statement and load the Netflix titles CSV into `netflix_titles`. [![Kaggle](https://shields.io)](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 3. **Run the queries**: execute the SQL in this README (or the accompanying `.sql` file) to reproduce the analysis.
 4. **Explore further**: the cleaning steps (splitting multi-value columns, converting dates/durations) make this dataset a good base for additional questions of your own.
 
